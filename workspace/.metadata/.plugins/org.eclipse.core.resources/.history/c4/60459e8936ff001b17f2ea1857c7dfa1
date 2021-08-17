@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html lang="ko">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>회원가입</title>
+	</head>
+
+	<body>
+		<div class ="container">
+			
+			<div class = "row">
+				
+				<div class="col-md-12">
+					<small>
+					<a herf="#">로그인</a> | <a herf="#">회원가입</a>
+					</small>
+				</div>
+				
+			</div>
+		</div>
+	</body>
+
+</html>
