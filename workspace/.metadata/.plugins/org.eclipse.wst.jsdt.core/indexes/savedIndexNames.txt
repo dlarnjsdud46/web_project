@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\admin\Desktop\bumil\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3935341946.index
+2566156935.index
+2194315965.index
+1908042859.index
+717268344.index
