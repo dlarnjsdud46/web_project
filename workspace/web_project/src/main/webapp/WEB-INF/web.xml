@@ -51,6 +51,15 @@
 		<url-pattern>*.do</url-pattern>
 	</servlet-mapping>
     
+    <servlet>
+    	<servlet-name>test-jsp</servlet-name>
+    	<jsp-file>/WEB-INF/jsp/egovframework/example/join/test.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>test-jsp</servlet-name>
+		<url-pattern>/test</url-pattern>
+	</servlet-mapping>
+    
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>

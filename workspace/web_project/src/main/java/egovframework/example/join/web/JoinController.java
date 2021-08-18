@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class JoinController{
 	@RequestMapping("/joinRegister.do")
 	public String joinRegister() {
-		return "join/join";
+		return "join/login";
 	}
 }
